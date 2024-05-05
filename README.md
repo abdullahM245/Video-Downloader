@@ -1,4 +1,4 @@
 # Video/Playlist-Downloader
--> Simple Open Source project to download Videos or Playlists from youtube, with diffrent resolutions
+- Simple Open Source project to download Videos or Playlists from youtube, with 720p and 360p
 
--> before using it u need to download ( virtualenv, customtkinter, pytupe )
+- Before using it you need to download ( virtualenv, customtkinter, pytupe )
